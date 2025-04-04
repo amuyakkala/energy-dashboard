@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 Energy Dashboard – Full Stack App
 
 A full stack web application for visualizing renewable energy consumption and generation data with secure user authentication.
@@ -74,3 +75,6 @@ README.md
 ## 📝 Author
 
 Developed by Amulya Yakkala – 2025
+=======
+# energy-dashboard
+>>>>>>> 0bc3fe03a18e71eb11bc769b2efc261f6d7cc8ea
